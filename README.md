@@ -16,4 +16,4 @@ https://metrika.yandex.ru/goals?id=87438033
 автоцели: Клик на email, Клик на телефон, Переход в соц.сеть(Twitter)
 
 
-3)https://dubovaolga.github.io/empty счетчик не установлен
+3) https://dubovaolga.github.io/empty счетчик не установлен
