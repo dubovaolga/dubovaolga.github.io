@@ -20,5 +20,7 @@ https://metrika.yandex.ru/goals?id=87438033
 4) https://dubovaolga.github.io/two установлены 2 счетчика
    
 5) https://dubovaolga.github.io/zerogoals установлен счетчик без целей
+
+https://metrika.yandex.ru/goals?id=96822181
    
 6) https://dubovaolga.github.io/deleted установлен счетчик, который удален в метрике
