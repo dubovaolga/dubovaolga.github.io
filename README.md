@@ -23,4 +23,4 @@ https://metrika.yandex.ru/goals?id=87438033
 
 https://metrika.yandex.ru/goals?id=96822181
    
-6) https://dubovaolga.github.io/deleted установлен счетчик, который удален в метрике
+6) https://dubovaolga.github.io/deleted установлен счетчик, который удален в метрике (счетчик удален, тк падает создание smb рк)
